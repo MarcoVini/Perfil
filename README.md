@@ -3,9 +3,9 @@
 
 - 🔭 Buscando o conhecimento necessário a fim de atuar na área de Segurança da Informação. **Fundamentos de Ethical Hacking e Defesa Cibernética**
 
-- 👯 Também estou obtendo conhecimento na área de Programação. **Introdução a Programação Python**
+- 👯 Também estou obtendo conhecimento na área de Programação. **Programação Python e Javascript**
 
-- 💬 Me pergunte sobre **Python, JavaScript, HTML, Redes de Computadores e Segurança da Informação.**
+- 💬 Me pergunte sobre **Python, JavaScript, HTML, Redes de Computadores, Segurança da Informação, Windows, Linux e Office365.**
 
 - 📫 Você me encontram em **vini200975@gmail.com**
 
