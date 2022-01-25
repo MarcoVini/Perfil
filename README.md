@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou o Marcos Vinicius</h1>
 <h3 align="center">Apaixonado por Tecnologia, com maior afinco em Segurança da Informação.</h3>
 
-- 🔭 Buscando o conhecimento necessário a fim de atuar na área de Segurança da Informação. **Fundamentos de Ethical Hacking(Udemy) e Defesa Cibernética(Graduação)**
+- 🔭 Me especializando a fim de atuar na área de Segurança da Informação. **Fundamentos de Ethical Hacking(Udemy) e Defesa Cibernética(Graduação)**
 
-- 👯 Também estou obtendo conhecimento na área de Programação. **Programação Python e Javascript**
+- 👯 Também estou buscando conhecimento na área de Programação. **Programação Python e Javascript**
 
 - 💬 Me pergunte sobre **Python, JavaScript, HTML, Redes de Computadores, Segurança da Informação, Windows, Linux e Office365.**
 
