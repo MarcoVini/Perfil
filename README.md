@@ -5,11 +5,11 @@
 
 - 👯 Também estou buscando conhecimento na área de Programação. **Programação Python e Javascript**
 
-- 💬 Me pergunte sobre **Python, JavaScript, HTML, Redes de Computadores, Segurança da Informação, Windows, Linux e Office365.**
+- 💬 Me pergunte sobre **Python, JavaScript, HTML, Redes de Computadores, Segurança da Informação, Windows, Linux, Office365 e Manutenção de Computadores.**
 
 - 📫 Você me encontra em **vini200975@gmail.com**
 
-- 📄 Atualmente atuo como Suporte Técnico em telecomunicações na Concentrix Brasil, porém estou estudando e buscando oportunidade na área de TI. [https://www.linkedin.com/in/marcos-vinicius-039097195/](https://www.linkedin.com/in/marcos-vinicius-039097195/)
+- 📄 Atualmente atuo como Estagiário em Infraestrutura e Suporte de TI na empresa Grupo Promex, onde realizo manutenção geral de hardware e software. [https://www.linkedin.com/in/marcos-vinicius-039097195/](https://www.linkedin.com/in/marcos-vinicius-039097195/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
