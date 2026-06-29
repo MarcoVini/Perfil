@@ -1,15 +1,13 @@
 <h1 align="center">Oi 👋, Eu sou o Marcos Vinicius</h1>
 <h3 align="center">Apaixonado por Tecnologia, com maior afinco em Segurança da Informação.</h3>
 
-- 🔭 Me especializando a fim de atuar na área de Segurança da Informação. **Fundamentos de Ethical Hacking(Udemy) e Defesa Cibernética(Graduação)**
+- Analista de Data Center Jr. apaixonado por Dados, Inteligência Artificial e Machine Learning.
+  
+- Atualmente estou aprofundando meus conhecimentos em Python, SQL, Estatística e Machine Learning com foco em Ciência de Dados.
+  
+- Meu objetivo é atuar como Cientista de Dados, utilizando análise de dados e IA para gerar insights e apoiar decisões de negócio.
 
-- 👯 Também estou buscando conhecimento na área de Programação. **Programação Python e Javascript**
-
-- 💬 Me pergunte sobre **Python, JavaScript, HTML, Redes de Computadores, Segurança da Informação, Windows, Linux, Office365 e Manutenção de Computadores.**
-
-- 📫 Você me encontra em **vini200975@gmail.com**
-
-- 📄 Atualmente atuo como Estagiário em Infraestrutura e Suporte de TI na empresa Grupo Promex, onde realizo manutenção geral de hardware e software. [https://www.linkedin.com/in/marcos-vinicius-039097195/](https://www.linkedin.com/in/marcos-vinicius-039097195/)
+- Você me encontra em **vini200975@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
