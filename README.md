@@ -10,7 +10,7 @@ Analista de Data Center Jr. | Ciência de Dados | Inteligência Artificial
 
 💼 Atualmente atuo como **Analista de Data Center Jr.**, trabalhando com infraestrutura, automação e tecnologias Microsoft.
 
-📚 Estou em transição para a área de **Ciência de Dados**, aprofundando meus conhecimentos em Python, SQL, Estatística, Machine Learning e Cloud Computing.
+📚 Desenvolvendo competências em Ciência de Dados, Inteligência Artificial e Cloud Computing.
 
 ☁️ Possuo certificações nas principais plataformas de nuvem (Microsoft, AWS, Oracle e Google Cloud), com foco em Inteligência Artificial e Computação em Nuvem.
 
