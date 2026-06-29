@@ -1,38 +1,44 @@
 <h1 align="center">Olá 👋, eu sou o Marcos Vinicius</h1>
 
 <h3 align="center">
-Analista de Data Center Jr. | Estudando Ciência de Dados
+Analista de Data Center Jr. | Ciência de Dados | Inteligência Artificial
 </h3>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 💼 Atualmente atuo como **Analista de Data Center Jr.**
-- 🎓 Certificado **Microsoft Certified: Azure AI Fundamentals (AI-900)**
-- 📚 Estudando **Ciência de Dados** com foco em Python, SQL, Estatística, Machine Learning e Cloud.
-- ☁️ Expandindo conhecimentos nos ecossistemas **Microsoft Azure** e **AWS**.
-- 🚀 Construindo projetos para meu portfólio no GitHub.
-- 🎯 Objetivo profissional: atuar como **Cientista de Dados**, utilizando Inteligência Artificial e análise de dados para gerar insights e apoiar decisões de negócio.
+💼 Atualmente atuo como **Analista de Data Center Jr.**, trabalhando com infraestrutura, automação e tecnologias Microsoft.
+
+📚 Estou em transição para a área de **Ciência de Dados**, aprofundando meus conhecimentos em Python, SQL, Estatística, Machine Learning e Cloud Computing.
+
+☁️ Possuo certificações nas principais plataformas de nuvem (Microsoft, AWS, Oracle e Google Cloud), com foco em Inteligência Artificial e Computação em Nuvem.
+
+🚀 Atualmente desenvolvendo projetos para construir meu portfólio em Ciência de Dados.
+
+🎯 Meu objetivo é atuar como **Cientista de Dados**, utilizando análise de dados e Inteligência Artificial para transformar dados em decisões estratégicas.
 
 ---
 
 ## 🚀 Atualmente estudando
 
-- 🐍 Python para Dados
+- 🐍 Python
 - 🗄️ SQL
 - 📊 Estatística
 - 📈 Power BI
 - 🤖 Machine Learning
 - ☁️ Microsoft Azure
-- ☁️ AWS
+- ☁️ AWS Cloud
+- 📂 Git & GitHub
 
 ---
 
 ## 🏆 Certificações
 
-- ✅ Microsoft Certified: Azure AI Fundamentals (AI-900)
-- 📖 Em preparação para AWS Certified AI Practitioner
+- 🥇 Microsoft Certified: Azure AI Fundamentals (AI-900)
+- ☁️ AWS Certified Cloud Practitioner (CLF-C02)
+- 🤖 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- 🌎 Google Cloud Computing Foundations
 
 ---
 
@@ -72,6 +78,34 @@ Analista de Data Center Jr. | Estudando Ciência de Dados
 
 ---
 
+## 🎖️ Badges
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Oracle](https://img.shields.io/badge/Oracle-AI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+## 📂 Projetos
+
+🚧 Em construção...
+
+Em breve estarão disponíveis projetos envolvendo:
+
+- 📊 Análise Exploratória de Dados
+- 🗄️ SQL
+- 🐍 Python
+- 📈 Power BI
+- 🤖 Machine Learning
+- ☁️ Azure
+- ☁️ AWS
+
+---
+
 ## 📈 Estatísticas
 
 <p align="center">
@@ -90,5 +124,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoVini&la
 
 ## 📫 Contato
 
-- 📧 **vini200975@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/marcos-vinicius-039097195/**
+📧 **vini200975@gmail.com**
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/marcos-vinicius-039097195/
