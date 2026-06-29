@@ -127,4 +127,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoVini&la
 📧 **vini200975@gmail.com**
 
 💼 **LinkedIn**
-https://www.linkedin.com/in/marcos-vinicius-039097195/
+[https://www.linkedin.com/in/marcos-vinicius-039097195/](https://www.linkedin.com/in/marcos-santos8295/)
