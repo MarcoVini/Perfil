@@ -1,20 +1,94 @@
-<h1 align="center">Oi 👋, Eu sou o Marcos Vinicius</h1>
-<h3 align="center">Apaixonado por Tecnologia, com maior afinco em Segurança da Informação.</h3>
+<h1 align="center">Olá 👋, eu sou o Marcos Vinicius</h1>
 
-- Analista de Data Center Jr. apaixonado por Dados, Inteligência Artificial e Machine Learning.
-  
-- Atualmente estou aprofundando meus conhecimentos em Python, SQL, Estatística e Machine Learning com foco em Ciência de Dados.
-  
-- Meu objetivo é atuar como Cientista de Dados, utilizando análise de dados e IA para gerar insights e apoiar decisões de negócio.
+<h3 align="center">
+Analista de Data Center Jr. | Estudando Ciência de Dados
+</h3>
 
-- Você me encontra em **vini200975@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 👨‍💻 Sobre mim
+
+- 💼 Atualmente atuo como **Analista de Data Center Jr.**
+- 🎓 Certificado **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+- 📚 Estudando **Ciência de Dados** com foco em Python, SQL, Estatística, Machine Learning e Cloud.
+- ☁️ Expandindo conhecimentos nos ecossistemas **Microsoft Azure** e **AWS**.
+- 🚀 Construindo projetos para meu portfólio no GitHub.
+- 🎯 Objetivo profissional: atuar como **Cientista de Dados**, utilizando Inteligência Artificial e análise de dados para gerar insights e apoiar decisões de negócio.
+
+---
+
+## 🚀 Atualmente estudando
+
+- 🐍 Python para Dados
+- 🗄️ SQL
+- 📊 Estatística
+- 📈 Power BI
+- 🤖 Machine Learning
+- ☁️ Microsoft Azure
+- ☁️ AWS
+
+---
+
+## 🏆 Certificações
+
+- ✅ Microsoft Certified: Azure AI Fundamentals (AI-900)
+- 📖 Em preparação para AWS Certified AI Practitioner
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marcos-vinicius-039097195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcos-vinicius-039097195/" height="30" width="40" /></a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://learn.microsoft.com/sql/sql-server/" target="_blank">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://azure.microsoft.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcovini&show_icons=true&locale=en&layout=compact" alt="marcovini" /></p>
+## 📈 Estatísticas
+
+<p align="center">
+
+<img
+height="170em"
+src="https://github-readme-stats.vercel.app/api?username=MarcoVini&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img
+height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoVini&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📫 Contato
+
+- 📧 **vini200975@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/marcos-vinicius-039097195/**
